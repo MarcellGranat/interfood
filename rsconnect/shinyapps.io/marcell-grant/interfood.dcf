@@ -1,0 +1,13 @@
+name: interfood
+title: interfood
+username:
+account: marcell-grant
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8476042
+bundleId: 6915549
+url: https://marcell-grant.shinyapps.io/interfood/
+when: 1677940425.40908
+lastSyncTime: 1677940425.40909
+asMultiple: FALSE
+asStatic: FALSE
